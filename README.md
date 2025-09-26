@@ -1,29 +1,32 @@
-🍨 ICEDREAMS – UI Design Project
+# 🍨 ICEDREAMS – UI Design Project
 
-Description
+## Description
 Designed a visually appealing UI for an ice cream-selling platform, focusing on engaging layouts and smooth user interactions.
 
-🔗 Figma Prototype
+## Figma Prototype
+[👉 View on Figma](https://www.figma.com/proto/LBKGH8MrLn54rIgb5rxXhc/Untitled?page-id=0%3A1&node-id=1-136&viewport=80%2C99%2C0.26&t=0WLPrrKHL8HvlQgF-1&scaling=min-zoom&content-scaling=fixed)  
 
-👉 View on Figma
+## Tools Used
+- 🎨 **Figma** – UI Design & Prototyping  
+- 🖼 **Canva** – Visual Presentation & Assets  
+- ✨ **UI/UX Principles** – Modern and interactive experience  
 
-🛠 Tools Used
+## Screens Preview
+- Home Screen  
+- Product Page  
+- Checkout Flow  
 
-🎨 Figma – UI Design & Prototyping
-🖼 Canva – Visual Presentation & Assets
-✨ UI/UX Principles – Modern and interactive experience
+*(Insert screenshots here or link to assets folder)*
 
-📸 Preview
+## Highlights
+- ✔ Clean and colorful UI tailored for ice cream branding  
+- ✔ Smooth user interaction flows for browsing & ordering  
+- ✔ Engaging layout design to enhance user experience  
 
-(Home Screen • Product Page • Checkout Flow)
-👉 Insert screenshots here in Canva or link from assets/ folder
+## About the Project
+This project showcases UI/UX design skills, focusing on:
+- Branding consistency  
+- Color psychology  
+- Intuitive navigation  
 
-🚀 Highlights
-
-✔ Clean and colorful UI tailored for ice cream branding
-✔ Smooth user interaction flows for browsing & ordering
-✔ Engaging layout design to enhance user experience
-
-📖 About the Project
-
-This project was created to showcase UI/UX design skills, focusing on branding, color psychology, and intuitive navigation. It can be extended into a full e-commerce platform for online dessert and ice cream ordering.
+It can be extended into a **full e-commerce platform** for online dessert and ice cream ordering.
