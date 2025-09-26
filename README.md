@@ -16,7 +16,9 @@ Designed a visually appealing UI for an ice cream-selling platform, focusing on 
 - Product Page  
 - Checkout Flow  
 
-*(Insert screenshots here or link to assets folder)*
+*<img width="362" height="763" alt="ICEDREAMS (1)" src="https://github.com/user-attachments/assets/3ad434b6-fbc2-4f5b-a2a8-dee25bf3be6f" />
+<img width="369" height="812" alt="ICEDREAMS (2)" src="https://github.com/user-attachments/assets/c34519cd-a347-46ad-b147-6dc9e5643a7d" />
+<img width="366" height="805" alt="ICEDREAMS (3)" src="https://github.com/user-attachments/assets/68773225-2fa3-42db-a6cf-edc2b4b73c1c" />*
 
 ## Highlights
 - ✔ Clean and colorful UI tailored for ice cream branding  
